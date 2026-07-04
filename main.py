@@ -1,0 +1,13 @@
+print("Hello, World!")
+print("Nikki Kushwaha is teaching you Python and Github")
+nikki_kushwaha = "Nikki Kushwaha is teaching you Python and Github"
+print(nikki_kushwaha)
+print(len(nikki_kushwaha))
+print(nikki_kushwaha.upper())
+print(nikki_kushwaha.lower())
+print(nikki_kushwaha.title())
+print(nikki_kushwaha.swapcase())
+print(nikki_kushwaha.capitalize())
+print(nikki_kushwaha.replace("Python", "Java"))
+print(nikki_kushwaha.split())
+print(nikki_kushwaha.join(["Python", "Java", "C++"]))
